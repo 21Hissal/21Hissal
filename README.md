@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @21Hissal
+- 👋 Hi, I’m @Hissal
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on Game Development
